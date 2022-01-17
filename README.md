@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C++ with DSA and DevOps.  
 - 👯 I’m looking to work remotely 
 - 🤔 I’m looking for help with ML , AI , DevOps tools
-- 💬 Ask me about C++ , Logic building and Data Science.
+- 💬 Ask me about C++ ,Python, Logic building and Data Science.
 - 📫 How to reach me: bipin.bpn8888@gmail.com 
 
 
