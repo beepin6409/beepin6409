@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently enrolled in Kalinga Institue of Industrial Technology.
-- 🌱 I’m currently learning C++ with DSA and DevOps.  
+- 🌱 I’m currently learning C++ with DSA .  
 - 👯 I’m looking to work remotely 
-- 🤔 I’m looking for help with ML , AI , DevOps tools
+- 🤔 I’m looking for help with ML , AI , Data Science.
 - 💬 Ask me about C++ ,Python, Logic building and Data Science.
 - 📫 How to reach me: bipin.bpn8888@gmail.com 
 
